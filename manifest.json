@@ -1,0 +1,11 @@
+{
+  "id": "walus-storage-obsidian",
+  "name": "Walus Storage",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "A Walrus storage plugin for Obsidian",
+  "author": "Walus Team",
+  "authorUrl": "https://walrus.tech",
+  "fundingUrl": "https://walrus.tech/funding",
+  "isDesktopOnly": true
+}
